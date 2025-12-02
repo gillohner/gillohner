@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm LazerClippy (Aka Gil)</h1>
-<h3 align="center">A passionate Developer from Switzerland</h3>
+<h3 align="center">A Bitcoiner and Software Developer from Switzerland</h3>
 
 
 
