@@ -28,7 +28,7 @@
 
 <!-- Use correct markdown and remove line breaks from URLs -->
 <div align="center">
-  <a href="https://github.com/Sankalp-Sinha">
+  <a href="https://github.com/gillohner/">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gillohner&theme=2077" height="180em" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gillohner&theme=2077" height="180em" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gillohner&theme=2077" height="180em" />
