@@ -23,8 +23,7 @@
 
 <h3 align="left">Support my Work:</h3>
 <p align="left">
-  <a href="[https://x.com/gil_lohner](https://bb.mountainlake.io/tipjar/6FVmvPfMFqXtFUPLNzkXpY
-)" target="_blank">
+  <a href="https://bb.mountainlake.io/tipjar/6FVmvPfMFqXtFUPLNzkXpY" target="_blank">
       Send me a Tip - Thanks
     </a>&nbsp;
 </p>
